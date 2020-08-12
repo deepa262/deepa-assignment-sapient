@@ -187,7 +187,7 @@ background-color: white;
       margin-bottom: 15px;
     }
     .year-button {
-      margin: 20px 50px !important;
+      margin: 20px 35px !important;
   }
     .add-width {
       width: 100% !important;
@@ -237,7 +237,7 @@ background-color: white;
     }
   }
 
-  @media (min-width: 1px) and (max-width: 2000px){
+  @media (min-width: 1441px) and (max-width: 2000px){
     .add-width {
       width: 23% !important;
       margin: 0px 0px 20px 20px;
